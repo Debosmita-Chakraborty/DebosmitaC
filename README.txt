@@ -1,3 +1,22 @@
+This is my personal website, made from a template by HTML5UP. I added many pages and customised the design and flow to make it truly my own. It showcases all my personal and professional capabilities. Enjoy!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
